@@ -1,0 +1,8 @@
+FormationASPNETWebForms.sdf
+FormationASPNETWebForms.suo
+FormationASPNETWebForms.v12.suo
+bin/
+obj/
+*.opensdf
+packages/
+SQLite.Interop.dll
