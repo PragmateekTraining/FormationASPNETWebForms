@@ -3,6 +3,7 @@ FormationASPNETWebForms.suo
 FormationASPNETWebForms.v12.suo
 bin/
 obj/
+.nuget/
 *.opensdf
 packages/
 SQLite.Interop.dll
